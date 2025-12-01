@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智能瞭望数据分析处理系统 - 数据仓库</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar-brand">智能瞭望数据分析处理系统</div>
+        <div class="navbar-menu">
+            <a href="{{ url_for('dashboard') }}" class="navbar-item">首页</a>
+            <a href="{{ url_for('data_repository') }}" class="navbar-item active">数据仓库</a>
+            <span class="navbar-item">欢迎，{{ session.username }}</span>
+            <a href="{{ url_for('logout') }}" class="navbar-item logout">退出</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="dashboard-section">
+            <h3>数据查询</h3>
+            <form id="queryForm" class="query-form">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="searchKeyword">搜索关键词</label>
+                        <input type="text" id="searchKeyword" placeholder="标题、摘要或关键词...">
+                    </div>
+                    <div class="form-group">
+                        <label for="dateFrom">起始日期</label>
+                        <input type="date" id="dateFrom">
+                    </div>
+                    <div class="form-group">
+                        <label for="dateTo">结束日期</label>
+                        <input type="date" id="dateTo">
+                    </div>
+                </div>
+                <div class="form-actions">
+                    <button type="submit" class="btn btn-primary">查询</button>
+                    <button type="button" class="btn btn-secondary" id="resetQuery">重置</button>
+                </div>
+            </form>
+        </div>
+
+        <div class="dashboard-section">
+            <h3>数据列表</h3>
+            <div id="queryStatus" class="status-message"></div>
+            <div id="queryLoading" class="loading-indicator" style="display: none;">
+                <div class="spinner"></div>
+                <p>正在加载数据，请稍候...</p>
+            </div>
+            <div id="repositoryData" class="repository-data">
+                <div class="empty-state">
+                    <p>请输入查询条件获取数据</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/repository.js') }}"></script>
+</body>
+</html>
