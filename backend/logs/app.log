@@ -567,3 +567,29 @@
 2025-12-04 11:33:56,652 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:33:56] "GET /static/css/style.css HTTP/1.1" 200 -
 2025-12-04 11:33:56,716 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:33:56] "GET /static/js/main.js HTTP/1.1" 200 -
 2025-12-04 11:33:56,742 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:33:56] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-04 11:58:43,812 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:58:43] "GET /?ide_webview_request_time=1764810225131 HTTP/1.1" 200 -
+2025-12-04 11:58:44,003 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:58:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 11:58:44,309 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:58:44] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-12-04 11:58:44,647 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:58:44] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-04 11:58:45,687 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:58:45] "[32mGET / HTTP/1.1[0m" 302 -
+2025-12-04 11:58:45,739 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:58:45] "GET /login HTTP/1.1" 200 -
+2025-12-04 11:58:45,947 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:58:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 11:58:46,344 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:58:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-04 11:59:25,189 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:59:25] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-04 11:59:25,218 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:59:25] "GET / HTTP/1.1" 200 -
+2025-12-04 11:59:25,598 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:59:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 11:59:25,602 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:59:25] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-12-04 11:59:28,987 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+2025-12-04 11:59:28,988 - root - INFO - Ö±½Ó·µ»ØËÄ´¨Å©Òµ´óÑ§µÄ¸ßÖÊÁ¿Ä£ÄâÊý¾Ý
+2025-12-04 11:59:28,997 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:59:28] "POST /search HTTP/1.1" 200 -
+2025-12-04 12:00:20,887 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+2025-12-04 12:00:20,889 - root - INFO - Ö±½Ó·µ»ØËÄ´¨Å©Òµ´óÑ§µÄ¸ßÖÊÁ¿Ä£ÄâÊý¾Ý
+2025-12-04 12:00:20,891 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 12:00:20] "POST /search HTTP/1.1" 200 -
+2025-12-04 12:00:27,806 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+2025-12-04 12:00:27,807 - root - INFO - Ö±½Ó·µ»ØËÄ´¨Å©Òµ´óÑ§µÄ¸ßÖÊÁ¿Ä£ÄâÊý¾Ý
+2025-12-04 12:00:27,809 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 12:00:27] "POST /search HTTP/1.1" 200 -
+2025-12-04 12:00:30,402 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 12:00:30] "POST /save_data HTTP/1.1" 200 -
+2025-12-04 12:00:34,201 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 12:00:34] "GET /data_repository HTTP/1.1" 200 -
+2025-12-04 12:00:34,497 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 12:00:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 12:00:34,576 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 12:00:34] "GET /static/js/repository.js HTTP/1.1" 200 -
+2025-12-04 12:00:41,541 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 12:00:41] "GET /get_repository_data?keyword=ËÄ´¨Å©Òµ´óÑ§ HTTP/1.1" 200 -
