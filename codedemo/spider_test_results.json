@@ -1,0 +1,20 @@
+[
+  {
+    "keyword": "四川农业大学",
+    "status": "success",
+    "result_count": 0,
+    "error_message": ""
+  },
+  {
+    "keyword": "百度搜索",
+    "status": "success",
+    "result_count": 0,
+    "error_message": ""
+  },
+  {
+    "keyword": "Python爬虫",
+    "status": "success",
+    "result_count": 0,
+    "error_message": ""
+  }
+]

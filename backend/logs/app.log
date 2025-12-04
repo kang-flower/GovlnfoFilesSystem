@@ -1,0 +1,557 @@
+2025-12-04 09:02:55,005 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.23.177.8:5000
+2025-12-04 09:02:55,005 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-04 09:02:55,007 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:02:55,488 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:02:55,493 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:03:12,479 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:03:12] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-04 09:03:12,489 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:03:12] "GET / HTTP/1.1" 200 -
+2025-12-04 09:03:13,098 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7019
+2025-12-04 09:03:13,098 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ??
+2025-12-04 09:03:13,664 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:03:13,665 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ??
+2025-12-04 09:03:14,640 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%3F%3F
+2025-12-04 09:03:14,641 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:03:15,373 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:03:15,373 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2025-12-04 09:03:15,374 - baidu_spider - INFO - CookieÊýÁ¿: 1
+2025-12-04 09:03:15,375 - baidu_spider - INFO - CookieÏêÇé: {'BDORZ': 'B490B5EBF6F3CD402E515D22BCDA1598'}
+2025-12-04 09:03:15,375 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:03:15,379 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 853449 ×Ö·û
+2025-12-04 09:03:15,386 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:03:15,387 - baidu_spider - INFO - HTMLÇ°300×Ö·û: '<!DOCTYPE html>\n<!--STATUS OK-->\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    \r\n\r\n\r\n    \r\n    \r\n        \r\n\n\n\n\n\n<html class="">\n\t<head>\n\t\t\n\t\t<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">\n\t\t<'
+2025-12-04 09:03:15,393 - baidu_spider - INFO - ÕýÔòÆ¥ÅäÕÒµ½ 18 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:03:15,393 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 6, ×îÖÕÈ¥ÖØ½á¹ûÊý: 5
+2025-12-04 09:03:15,395 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 1.73s, ½á¹ûÊý: 5
+2025-12-04 09:03:15,396 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ?? (µÚ1Ò³)
+2025-12-04 09:03:17,266 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:03:17,267 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:03:17,268 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:03:17,269 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:03:17,269 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 5, È¥ÖØºó: 5, ·µ»Ø: 5
+2025-12-04 09:03:17,274 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:03:17] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:03:45,460 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:03:45] "GET /?ide_webview_request_time=1764810225131 HTTP/1.1" 200 -
+2025-12-04 09:03:46,114 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:03:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 09:03:46,174 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:03:46] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-12-04 09:03:46,223 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:03:46] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-04 09:04:24,050 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:04:24] "GET /?ide_webview_request_time=1764810225131 HTTP/1.1" 200 -
+2025-12-04 09:04:24,316 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:04:24] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-12-04 09:04:24,378 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:04:24] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-12-04 09:04:24,412 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:04:24] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-04 09:04:33,671 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.100.3 Chrome/132.0.6834.210 Electron/34.5.1 Safari/537.36
+2025-12-04 09:04:33,671 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:04:34,481 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:04:34,482 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:04:35,069 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6
+2025-12-04 09:04:35,070 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:04:35,857 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:04:35,858 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2025-12-04 09:04:35,858 - baidu_spider - INFO - CookieÊýÁ¿: 1
+2025-12-04 09:04:35,858 - baidu_spider - INFO - CookieÏêÇé: {'BDORZ': 'B490B5EBF6F3CD402E515D22BCDA1598'}
+2025-12-04 09:04:35,859 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:04:35,861 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 1022810 ×Ö·û
+2025-12-04 09:04:35,864 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:04:35,865 - baidu_spider - INFO - HTMLÇ°300×Ö·û: '<!DOCTYPE html>\n<!--STATUS OK-->\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    \r\n\r\n\r\n    \r\n    \r\n        \r\n\n\n\n\n\n<html class="">\n\t<head>\n\t\t\n\t\t<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">\n\t\t<'
+2025-12-04 09:04:35,868 - baidu_spider - INFO - ÕýÔòÆ¥ÅäÕÒµ½ 15 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:04:35,870 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 4, ×îÖÕÈ¥ÖØ½á¹ûÊý: 4
+2025-12-04 09:04:35,871 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 1.39s, ½á¹ûÊý: 4
+2025-12-04 09:04:35,872 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ËÄ´¨Å©Òµ´óÑ§ (µÚ1Ò³)
+2025-12-04 09:04:38,597 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:04:38,599 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:04:38,600 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:04:38,601 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:04:38,601 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 4, È¥ÖØºó: 4, ·µ»Ø: 4
+2025-12-04 09:04:38,607 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:04:38] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:04:45,050 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:04:45] "GET / HTTP/1.1" 200 -
+2025-12-04 09:04:45,081 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:04:45] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-12-04 09:04:45,313 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:04:45] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-12-04 09:04:49,078 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+2025-12-04 09:04:49,078 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:04:50,138 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:04:50,138 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:04:51,078 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6
+2025-12-04 09:04:51,079 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:04:52,438 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:04:52,439 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2025-12-04 09:04:52,440 - baidu_spider - INFO - CookieÊýÁ¿: 1
+2025-12-04 09:04:52,440 - baidu_spider - INFO - CookieÏêÇé: {'BDORZ': 'B490B5EBF6F3CD402E515D22BCDA1598'}
+2025-12-04 09:04:52,441 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:04:52,441 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 1488 ×Ö·û
+2025-12-04 09:04:52,442 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:04:52,476 - baidu_spider - INFO - ÕýÔòÆ¥ÅäÕÒµ½ 0 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:04:52,477 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 0, ×îÖÕÈ¥ÖØ½á¹ûÊý: 0
+2025-12-04 09:04:52,482 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 2.34s, ½á¹ûÊý: 0
+2025-12-04 09:04:52,483 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ËÄ´¨Å©Òµ´óÑ§ (µÚ1Ò³)
+2025-12-04 09:04:54,894 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:04:54,895 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:04:54,896 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:04:54,897 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:04:54,898 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 0, È¥ÖØºó: 0, ·µ»Ø: 0
+2025-12-04 09:04:54,907 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:04:54] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:04:57,247 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+2025-12-04 09:04:57,247 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:04:58,421 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:04:58,422 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:04:59,298 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6
+2025-12-04 09:04:59,299 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:05:00,505 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:05:00,505 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2025-12-04 09:05:00,505 - baidu_spider - INFO - CookieÊýÁ¿: 1
+2025-12-04 09:05:00,506 - baidu_spider - INFO - CookieÏêÇé: {'BDORZ': 'B490B5EBF6F3CD402E515D22BCDA1598'}
+2025-12-04 09:05:00,506 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:05:00,506 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 1488 ×Ö·û
+2025-12-04 09:05:00,506 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:05:00,509 - baidu_spider - INFO - ÕýÔòÆ¥ÅäÕÒµ½ 0 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:05:00,509 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 0, ×îÖÕÈ¥ÖØ½á¹ûÊý: 0
+2025-12-04 09:05:00,512 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 2.09s, ½á¹ûÊý: 0
+2025-12-04 09:05:00,512 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ËÄ´¨Å©Òµ´óÑ§ (µÚ1Ò³)
+2025-12-04 09:05:02,152 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:05:02] "[32mGET / HTTP/1.1[0m" 302 -
+2025-12-04 09:05:02,187 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:05:02] "GET /login HTTP/1.1" 200 -
+2025-12-04 09:05:02,416 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:05:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 09:05:02,530 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:05:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-04 09:05:03,639 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:05:03,640 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:05:03,641 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:05:03,641 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:05:03,642 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 0, È¥ÖØºó: 0, ·µ»Ø: 0
+2025-12-04 09:05:03,650 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:05:03] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:05:04,093 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:05:04] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-04 09:05:04,109 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:05:04] "GET / HTTP/1.1" 200 -
+2025-12-04 09:05:04,481 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:05:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 09:05:04,482 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:05:04] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-12-04 09:05:07,177 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+2025-12-04 09:05:07,177 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:05:08,374 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:05:08,375 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:05:08,887 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6
+2025-12-04 09:05:08,888 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:05:10,138 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:05:10,139 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2025-12-04 09:05:10,139 - baidu_spider - INFO - CookieÊýÁ¿: 1
+2025-12-04 09:05:10,140 - baidu_spider - INFO - CookieÏêÇé: {'BDORZ': 'B490B5EBF6F3CD402E515D22BCDA1598'}
+2025-12-04 09:05:10,141 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:05:10,141 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 1488 ×Ö·û
+2025-12-04 09:05:10,142 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:05:10,153 - baidu_spider - INFO - ÕýÔòÆ¥ÅäÕÒµ½ 0 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:05:10,154 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 0, ×îÖÕÈ¥ÖØ½á¹ûÊý: 0
+2025-12-04 09:05:10,158 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 1.78s, ½á¹ûÊý: 0
+2025-12-04 09:05:10,159 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ËÄ´¨Å©Òµ´óÑ§ (µÚ1Ò³)
+2025-12-04 09:05:13,688 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:05:13,689 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:05:13,690 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:05:13,690 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:05:13,691 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 0, È¥ÖØºó: 0, ·µ»Ø: 0
+2025-12-04 09:05:13,698 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:05:13] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:07:07,341 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:07:07] "[32mGET / HTTP/1.1[0m" 302 -
+2025-12-04 09:07:07,387 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:07:07] "GET /login HTTP/1.1" 200 -
+2025-12-04 09:07:07,607 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:07:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 09:07:07,736 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:07:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-12-04 09:07:09,346 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:07:09] "[32mPOST /login HTTP/1.1[0m" 302 -
+2025-12-04 09:07:09,363 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:07:09] "GET / HTTP/1.1" 200 -
+2025-12-04 09:07:09,702 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:07:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 09:07:09,709 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:07:09] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-12-04 09:07:11,719 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+2025-12-04 09:07:11,720 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:07:12,898 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:07:12,899 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:07:14,309 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6
+2025-12-04 09:07:14,310 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:07:15,689 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:07:15,690 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2025-12-04 09:07:15,691 - baidu_spider - INFO - CookieÊýÁ¿: 1
+2025-12-04 09:07:15,692 - baidu_spider - INFO - CookieÏêÇé: {'BDORZ': 'B490B5EBF6F3CD402E515D22BCDA1598'}
+2025-12-04 09:07:15,692 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:07:15,693 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 1488 ×Ö·û
+2025-12-04 09:07:15,694 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:07:15,705 - baidu_spider - INFO - ÕýÔòÆ¥ÅäÕÒµ½ 0 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:07:15,706 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 0, ×îÖÕÈ¥ÖØ½á¹ûÊý: 0
+2025-12-04 09:07:15,711 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 2.81s, ½á¹ûÊý: 0
+2025-12-04 09:07:15,712 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ËÄ´¨Å©Òµ´óÑ§ (µÚ1Ò³)
+2025-12-04 09:07:19,996 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:07:19,997 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:07:19,999 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:07:20,000 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:07:20,000 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 0, È¥ÖØºó: 0, ·µ»Ø: 0
+2025-12-04 09:07:20,006 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:07:20] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:07:44,051 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+2025-12-04 09:07:44,052 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:07:46,024 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:07:46,025 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:07:47,186 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6
+2025-12-04 09:07:47,187 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:07:48,911 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:07:48,912 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2025-12-04 09:07:48,913 - baidu_spider - INFO - CookieÊýÁ¿: 1
+2025-12-04 09:07:48,915 - baidu_spider - INFO - CookieÏêÇé: {'BDORZ': 'B490B5EBF6F3CD402E515D22BCDA1598'}
+2025-12-04 09:07:48,916 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:07:48,922 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 1037473 ×Ö·û
+2025-12-04 09:07:48,934 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:07:48,939 - baidu_spider - INFO - HTMLÇ°300×Ö·û: '<!DOCTYPE html>\n<!--STATUS OK-->\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    \r\n\r\n\r\n    \r\n    \r\n        \r\n\n\n\n\n\n<html class="">\n\t<head>\n\t\t\n\t\t<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">\n\t\t<'
+2025-12-04 09:07:48,960 - baidu_spider - INFO - ÕýÔòÆ¥ÅäÕÒµ½ 15 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:07:48,963 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 4, ×îÖÕÈ¥ÖØ½á¹ûÊý: 4
+2025-12-04 09:07:48,977 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 2.95s, ½á¹ûÊý: 4
+2025-12-04 09:07:48,988 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ËÄ´¨Å©Òµ´óÑ§ (µÚ1Ò³)
+2025-12-04 09:07:53,036 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:07:53,066 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:07:53,067 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:07:53,068 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:07:53,069 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 4, È¥ÖØºó: 4, ·µ»Ø: 4
+2025-12-04 09:07:53,073 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:07:53] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:18:57,503 - werkzeug - INFO -  * Detected change in 'C:\\Users\\86132\\Desktop\\Trae CN\\GovlnfoFilesSystem\\codedemo\\baidu_spider.py', reloading
+2025-12-04 09:18:57,595 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:18:58,058 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:18:58,064 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:18:58,098 - werkzeug - INFO -  * Detected change in 'C:\\Users\\86132\\Desktop\\Trae CN\\GovlnfoFilesSystem\\codedemo\\baidu_spider.py', reloading
+2025-12-04 09:18:58,227 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:18:58,638 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:18:58,642 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:23:04,853 - werkzeug - INFO -  * Detected change in 'C:\\Users\\86132\\Desktop\\Trae CN\\GovlnfoFilesSystem\\backend\\app.py', reloading
+2025-12-04 09:23:04,922 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:23:05,316 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:23:05,321 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:23:24,796 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.3:5000
+2025-12-04 09:23:24,797 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-04 09:23:24,799 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:23:25,277 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:23:25,282 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:23:57,682 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:23:57] "[32mPOST /search HTTP/1.1[0m" 302 -
+2025-12-04 09:23:57,692 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:23:57] "GET /login HTTP/1.1" 200 -
+2025-12-04 09:24:15,088 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:24:15] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+2025-12-04 09:24:15,289 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:24:15] "[32mPOST /search HTTP/1.1[0m" 302 -
+2025-12-04 09:24:15,292 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:24:15] "GET /login HTTP/1.1" 200 -
+2025-12-04 09:24:40,439 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:24:40] "[32mPOST /search HTTP/1.1[0m" 302 -
+2025-12-04 09:24:40,443 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:24:40] "GET /login HTTP/1.1" 200 -
+2025-12-04 09:25:19,000 - werkzeug - INFO -  * Detected change in 'C:\\Users\\86132\\Desktop\\Trae CN\\GovlnfoFilesSystem\\backend\\app.py', reloading
+2025-12-04 09:25:19,064 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:25:19,473 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:25:19,476 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:25:35,793 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.3:5000
+2025-12-04 09:25:35,794 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-04 09:25:35,796 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:25:36,236 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:25:36,240 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:25:50,150 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7019
+2025-12-04 09:25:50,151 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ??????
+2025-12-04 09:25:51,534 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:25:51] "GET /?ide_webview_request_time=1764810225131 HTTP/1.1" 200 -
+2025-12-04 09:25:51,633 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:25:51] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 09:25:51,858 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:25:51] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-12-04 09:25:51,896 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:25:51] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-04 09:25:52,077 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:25:52,077 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ??????
+2025-12-04 09:25:52,078 - baidu_spider - INFO - Ä£ÄâÈËÀàÐÐÎª£¬ÑÓ³Ù 2.43 Ãë
+2025-12-04 09:25:54,506 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%3F%3F%3F%3F%3F%3F&ie=utf-8&rsv_idx=1&rsv_pq=f2e85d230002a446&rsv_t=e0a21Bc5R8I4s4%2FhXr2Jvq%2FdDw
+2025-12-04 09:25:54,507 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:25:55,826 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:25:55,826 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15
+2025-12-04 09:25:55,827 - baidu_spider - INFO - CookieÊýÁ¿: 11
+2025-12-04 09:25:55,828 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:25:55,828 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 862083 ×Ö·û
+2025-12-04 09:25:55,837 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:25:55,838 - baidu_spider - INFO - HTMLÇ°300×Ö·û: '<!DOCTYPE html>\n<!--STATUS OK-->\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    \r\n\r\n\r\n    \r\n    \r\n        \r\n\n\n\n\n\n<html class="">\n\t<head>\n\t\t\n\t\t<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">\n\t\t<'
+2025-12-04 09:25:55,840 - baidu_spider - INFO - ÕÒµ½ 0 ¸ö½á¹û¿é
+2025-12-04 09:25:55,840 - baidu_spider - INFO - ³¢ÊÔ±¸ÓÃµÄ½á¹ûÌáÈ¡·½·¨
+2025-12-04 09:25:55,843 - baidu_spider - INFO - ±¸ÓÃÕýÔòÆ¥ÅäÕÒµ½ 6 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:25:55,845 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 1, ÑéÖ¤ºó½á¹ûÊý: 0, ×îÖÕÈ¥ÖØ½á¹ûÊý: 0
+2025-12-04 09:25:55,846 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 3.77s, ½á¹ûÊý: 0
+2025-12-04 09:25:55,846 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ?????? (µÚ1Ò³)
+2025-12-04 09:25:58,868 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:25:58,869 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:25:58,870 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:25:58,870 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:25:58,871 - root - INFO - ÑéÖ¤ËÑË÷½á¹û£¬¹Ø¼ü´Ê: ??????
+2025-12-04 09:25:58,871 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 0, ÑéÖ¤ºó: 0, È¥ÖØºó: 0
+2025-12-04 09:25:58,880 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:25:58] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:29:34,744 - werkzeug - INFO -  * Detected change in 'C:\\Users\\86132\\Desktop\\Trae CN\\GovlnfoFilesSystem\\backend\\app.py', reloading
+2025-12-04 09:29:34,843 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:30:46,836 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.3:5000
+2025-12-04 09:30:46,837 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-04 09:30:46,841 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:30:48,071 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:30:48,078 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:31:09,148 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7019
+2025-12-04 09:31:09,149 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ??????
+2025-12-04 09:31:10,807 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:31:10,808 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ??????
+2025-12-04 09:31:10,808 - baidu_spider - INFO - Ä£ÄâÈËÀàÐÐÎª£¬ÑÓ³Ù 1.81 Ãë
+2025-12-04 09:31:12,620 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%3F%3F%3F%3F%3F%3F&ie=utf-8&rsv_idx=1&rsv_pq=f2e85d230002a446&rsv_t=e0a21Bc5R8I4s4%2FhXr2Jvq%2FdDw
+2025-12-04 09:31:12,621 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:31:15,367 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:31:15,368 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2025-12-04 09:31:15,369 - baidu_spider - INFO - CookieÊýÁ¿: 11
+2025-12-04 09:31:15,369 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:31:15,370 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 1164053 ×Ö·û
+2025-12-04 09:31:15,387 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:31:15,388 - baidu_spider - INFO - HTMLÇ°300×Ö·û: '<!DOCTYPE html>\n<!--STATUS OK-->\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    \r\n\r\n\r\n    \r\n    \r\n        \r\n\n\n\n\n\n<html class="">\n\t<head>\n\t\t\n\t\t<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">\n\t\t<'
+2025-12-04 09:31:15,393 - baidu_spider - INFO - ÕÒµ½ 0 ¸ö½á¹û¿é
+2025-12-04 09:31:15,394 - baidu_spider - INFO - ³¢ÊÔ±¸ÓÃµÄ½á¹ûÌáÈ¡·½·¨
+2025-12-04 09:31:15,409 - baidu_spider - INFO - ±¸ÓÃÕýÔòÆ¥ÅäÕÒµ½ 6 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:31:15,412 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 1, ÑéÖ¤ºó½á¹ûÊý: 0, ×îÖÕÈ¥ÖØ½á¹ûÊý: 0
+2025-12-04 09:31:15,415 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 4.61s, ½á¹ûÊý: 0
+2025-12-04 09:31:15,416 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ?????? (µÚ1Ò³)
+2025-12-04 09:31:17,404 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:31:17,435 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:31:17,436 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:31:17,437 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:31:17,438 - root - INFO - ÑéÖ¤ËÑË÷½á¹û£¬¹Ø¼ü´Ê: ??????
+2025-12-04 09:31:17,438 - root - INFO - ½á¹û²»×ã£¬Éú³ÉÍêÕûÄ£Äâ½á¹û
+2025-12-04 09:31:17,439 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 0, ÑéÖ¤ºó: 0, È¥ÖØºó: 3
+2025-12-04 09:31:17,450 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:31:17] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:33:39,724 - werkzeug - INFO -  * Detected change in 'C:\\Users\\86132\\Desktop\\Trae CN\\GovlnfoFilesSystem\\backend\\app.py', reloading
+2025-12-04 09:33:39,881 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:33:41,433 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:33:41,445 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:34:05,576 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.3:5000
+2025-12-04 09:34:05,576 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-04 09:34:05,579 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:34:06,494 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:34:06,504 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:34:19,339 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7019
+2025-12-04 09:34:19,340 - root - INFO - JSONÇëÇó£¬¹Ø¼ü´Ê³¤¶È: 6
+2025-12-04 09:34:19,341 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ??????
+2025-12-04 09:34:20,582 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:34:20,583 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ??????
+2025-12-04 09:34:20,583 - baidu_spider - INFO - Ä£ÄâÈËÀàÐÐÎª£¬ÑÓ³Ù 1.81 Ãë
+2025-12-04 09:34:22,399 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%3F%3F%3F%3F%3F%3F&ie=utf-8&rsv_idx=1&rsv_pq=f2e85d230002a446&rsv_t=e0a21Bc5R8I4s4%2FhXr2Jvq%2FdDw
+2025-12-04 09:34:22,400 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:34:24,030 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:34:24,031 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+2025-12-04 09:34:24,031 - baidu_spider - INFO - CookieÊýÁ¿: 12
+2025-12-04 09:34:24,032 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:34:24,032 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 861822 ×Ö·û
+2025-12-04 09:34:24,042 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:34:24,043 - baidu_spider - INFO - HTMLÇ°300×Ö·û: '<!DOCTYPE html>\n<!--STATUS OK-->\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    \r\n\r\n\r\n    \r\n    \r\n        \r\n\n\n\n\n\n<html class="">\n\t<head>\n\t\t\n\t\t<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">\n\t\t<'
+2025-12-04 09:34:24,045 - baidu_spider - INFO - ÕÒµ½ 0 ¸ö½á¹û¿é
+2025-12-04 09:34:24,046 - baidu_spider - INFO - ³¢ÊÔ±¸ÓÃµÄ½á¹ûÌáÈ¡·½·¨
+2025-12-04 09:34:24,051 - baidu_spider - INFO - ±¸ÓÃÕýÔòÆ¥ÅäÕÒµ½ 6 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:34:24,053 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 1, ÑéÖ¤ºó½á¹ûÊý: 0, ×îÖÕÈ¥ÖØ½á¹ûÊý: 0
+2025-12-04 09:34:24,054 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 3.47s, ½á¹ûÊý: 0
+2025-12-04 09:34:24,055 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ?????? (µÚ1Ò³)
+2025-12-04 09:34:27,524 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:34:27,542 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:34:27,542 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:34:27,544 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:34:27,544 - root - INFO - ÑéÖ¤ËÑË÷½á¹û£¬¹Ø¼ü´Ê: ??????
+2025-12-04 09:34:27,544 - root - INFO - ½á¹û²»×ã£¬Éú³ÉÍêÕûÄ£Äâ½á¹û
+2025-12-04 09:34:27,545 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 0, ÑéÖ¤ºó: 0, È¥ÖØºó: 3
+2025-12-04 09:34:27,550 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:34:27] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:36:36,032 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.100.3 Chrome/132.0.6834.210 Electron/34.5.1 Safari/537.36
+2025-12-04 09:36:36,033 - root - INFO - JSONÇëÇó£¬¹Ø¼ü´Ê³¤¶È: 6
+2025-12-04 09:36:36,035 - root - INFO - ¼ì²âµ½°üº¬'ËÄ´¨'¡¢'Å©Òµ'»ò'´óÑ§'µÄ¹Ø¼ü´Ê
+2025-12-04 09:36:36,036 - root - INFO - ÒÑ±ê×¼»¯¹Ø¼ü´ÊÎª'ËÄ´¨Å©Òµ´óÑ§'
+2025-12-04 09:36:36,036 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:36:36,898 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:36:36,899 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:36:36,900 - baidu_spider - INFO - Ä£ÄâÈËÀàÐÐÎª£¬ÑÓ³Ù 1.68 Ãë
+2025-12-04 09:36:38,578 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6&ie=utf-8&rsv_idx=1&rsv_pq=f2e85d230002a446&rsv_t=e0a21Bc5R8I4s4%2FhXr2Jvq%2FdDw
+2025-12-04 09:36:38,579 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:36:40,620 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:36:40,620 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15
+2025-12-04 09:36:40,621 - baidu_spider - INFO - CookieÊýÁ¿: 11
+2025-12-04 09:36:40,621 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:36:40,621 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 1052441 ×Ö·û
+2025-12-04 09:36:40,627 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:36:40,628 - baidu_spider - INFO - HTMLÇ°300×Ö·û: '<!DOCTYPE html>\n<!--STATUS OK-->\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    \r\n\r\n\r\n    \r\n    \r\n        \r\n\n\n\n\n\n<html class="">\n\t<head>\n\t\t\n\t\t<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">\n\t\t<'
+2025-12-04 09:36:40,629 - baidu_spider - INFO - ÕÒµ½ 0 ¸ö½á¹û¿é
+2025-12-04 09:36:40,629 - baidu_spider - INFO - ³¢ÊÔ±¸ÓÃµÄ½á¹ûÌáÈ¡·½·¨
+2025-12-04 09:36:40,633 - baidu_spider - INFO - ±¸ÓÃÕýÔòÆ¥ÅäÕÒµ½ 6 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:36:40,634 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 1, ÑéÖ¤ºó½á¹ûÊý: 0, ×îÖÕÈ¥ÖØ½á¹ûÊý: 0
+2025-12-04 09:36:40,635 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 3.74s, ½á¹ûÊý: 0
+2025-12-04 09:36:40,635 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ËÄ´¨Å©Òµ´óÑ§ (µÚ1Ò³)
+2025-12-04 09:36:43,588 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:36:43,609 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:36:43,610 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:36:43,611 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:36:43,611 - root - INFO - ÑéÖ¤ËÑË÷½á¹û£¬¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:36:43,612 - root - INFO - ½á¹û²»×ã£¬Éú³ÉÍêÕûÄ£Äâ½á¹û
+2025-12-04 09:36:43,612 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 0, ÑéÖ¤ºó: 0, È¥ÖØºó: 3
+2025-12-04 09:36:43,619 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:36:43] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:37:06,516 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:37:06] "GET / HTTP/1.1" 200 -
+2025-12-04 09:37:06,862 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:37:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 09:37:07,022 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:37:07] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-12-04 09:37:10,418 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+2025-12-04 09:37:10,419 - root - INFO - JSONÇëÇó£¬¹Ø¼ü´Ê³¤¶È: 6
+2025-12-04 09:37:10,420 - root - INFO - ¼ì²âµ½°üº¬'ËÄ´¨'¡¢'Å©Òµ'»ò'´óÑ§'µÄ¹Ø¼ü´Ê
+2025-12-04 09:37:10,421 - root - INFO - ÒÑ±ê×¼»¯¹Ø¼ü´ÊÎª'ËÄ´¨Å©Òµ´óÑ§'
+2025-12-04 09:37:10,421 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:37:12,071 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:37:12,072 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:37:12,073 - baidu_spider - INFO - Ä£ÄâÈËÀàÐÐÎª£¬ÑÓ³Ù 1.76 Ãë
+2025-12-04 09:37:13,837 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6&ie=utf-8&rsv_idx=1&rsv_pq=f2e85d230002a446&rsv_t=e0a21Bc5R8I4s4%2FhXr2Jvq%2FdDw
+2025-12-04 09:37:13,838 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:37:16,259 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:37:16,259 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+2025-12-04 09:37:16,260 - baidu_spider - INFO - CookieÊýÁ¿: 11
+2025-12-04 09:37:16,261 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:37:16,262 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 1136033 ×Ö·û
+2025-12-04 09:37:16,279 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:37:16,280 - baidu_spider - INFO - HTMLÇ°300×Ö·û: '<!DOCTYPE html>\n<!--STATUS OK-->\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    \r\n\r\n\r\n    \r\n    \r\n        \r\n\n\n\n\n\n<html class="">\n\t<head>\n\t\t\n\t\t<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">\n\t\t<'
+2025-12-04 09:37:16,285 - baidu_spider - INFO - ÕÒµ½ 0 ¸ö½á¹û¿é
+2025-12-04 09:37:16,286 - baidu_spider - INFO - ³¢ÊÔ±¸ÓÃµÄ½á¹ûÌáÈ¡·½·¨
+2025-12-04 09:37:16,299 - baidu_spider - INFO - ±¸ÓÃÕýÔòÆ¥ÅäÕÒµ½ 6 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:37:16,301 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 1, ÑéÖ¤ºó½á¹ûÊý: 0, ×îÖÕÈ¥ÖØ½á¹ûÊý: 0
+2025-12-04 09:37:16,305 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 4.23s, ½á¹ûÊý: 0
+2025-12-04 09:37:16,306 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ËÄ´¨Å©Òµ´óÑ§ (µÚ1Ò³)
+2025-12-04 09:37:19,136 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:37:19,165 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:37:19,166 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:37:19,167 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:37:19,168 - root - INFO - ÑéÖ¤ËÑË÷½á¹û£¬¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:37:19,169 - root - INFO - ½á¹û²»×ã£¬Éú³ÉÍêÕûÄ£Äâ½á¹û
+2025-12-04 09:37:19,169 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 0, ÑéÖ¤ºó: 0, È¥ÖØºó: 3
+2025-12-04 09:37:19,181 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:37:19] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:37:41,951 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+2025-12-04 09:37:41,952 - root - INFO - JSONÇëÇó£¬¹Ø¼ü´Ê³¤¶È: 6
+2025-12-04 09:37:41,953 - root - INFO - ¼ì²âµ½°üº¬'ËÄ´¨'¡¢'Å©Òµ'»ò'´óÑ§'µÄ¹Ø¼ü´Ê
+2025-12-04 09:37:41,953 - root - INFO - ÒÑ±ê×¼»¯¹Ø¼ü´ÊÎª'ËÄ´¨Å©Òµ´óÑ§'
+2025-12-04 09:37:41,953 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:37:45,190 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:37:45,191 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:37:45,191 - baidu_spider - INFO - Ä£ÄâÈËÀàÐÐÎª£¬ÑÓ³Ù 2.22 Ãë
+2025-12-04 09:37:47,414 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6&ie=utf-8&rsv_idx=1&rsv_pq=f2e85d230002a446&rsv_t=e0a21Bc5R8I4s4%2FhXr2Jvq%2FdDw
+2025-12-04 09:37:47,415 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:37:49,578 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:37:49,579 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/120.0.0.0
+2025-12-04 09:37:49,580 - baidu_spider - INFO - CookieÊýÁ¿: 8
+2025-12-04 09:37:49,580 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:37:49,581 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 227 ×Ö·û
+2025-12-04 09:37:49,582 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:37:49,582 - baidu_spider - INFO - HTMLÇ°300×Ö·û: '<html>\r\n<head>\r\n\t<script>\r\n\t\tlocation.replace(location.href.replace("https://","http://"));\r\n\t</script>\r\n</head>\r\n<body>\r\n\t<noscript><meta http-equiv="refresh" content="0;url=http://www.baidu.com/"></noscript>\r\n</body>\r\n</html>'
+2025-12-04 09:37:49,583 - baidu_spider - INFO - ÕÒµ½ 0 ¸ö½á¹û¿é
+2025-12-04 09:37:49,584 - baidu_spider - INFO - ³¢ÊÔ±¸ÓÃµÄ½á¹ûÌáÈ¡·½·¨
+2025-12-04 09:37:49,585 - baidu_spider - INFO - ±¸ÓÃÕýÔòÆ¥ÅäÕÒµ½ 0 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:37:49,586 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 0, ÑéÖ¤ºó½á¹ûÊý: 0, ×îÖÕÈ¥ÖØ½á¹ûÊý: 0
+2025-12-04 09:37:49,587 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 4.40s, ½á¹ûÊý: 0
+2025-12-04 09:37:49,587 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ËÄ´¨Å©Òµ´óÑ§ (µÚ1Ò³)
+2025-12-04 09:37:51,907 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:37:51,941 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:37:51,942 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:37:51,943 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:37:51,943 - root - INFO - ÑéÖ¤ËÑË÷½á¹û£¬¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:37:51,944 - root - INFO - ½á¹û²»×ã£¬Éú³ÉÍêÕûÄ£Äâ½á¹û
+2025-12-04 09:37:51,945 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 0, ÑéÖ¤ºó: 0, È¥ÖØºó: 3
+2025-12-04 09:37:51,954 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:37:51] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:37:53,274 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+2025-12-04 09:37:53,274 - root - INFO - JSONÇëÇó£¬¹Ø¼ü´Ê³¤¶È: 6
+2025-12-04 09:37:53,275 - root - INFO - ¼ì²âµ½°üº¬'ËÄ´¨'¡¢'Å©Òµ'»ò'´óÑ§'µÄ¹Ø¼ü´Ê
+2025-12-04 09:37:53,275 - root - INFO - ÒÑ±ê×¼»¯¹Ø¼ü´ÊÎª'ËÄ´¨Å©Òµ´óÑ§'
+2025-12-04 09:37:53,275 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:37:55,037 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:37:55,038 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:37:55,038 - baidu_spider - INFO - Ä£ÄâÈËÀàÐÐÎª£¬ÑÓ³Ù 1.55 Ãë
+2025-12-04 09:37:56,591 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%E5%9B%9B%E5%B7%9D%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6&ie=utf-8&rsv_idx=1&rsv_pq=f2e85d230002a446&rsv_t=e0a21Bc5R8I4s4%2FhXr2Jvq%2FdDw
+2025-12-04 09:37:56,592 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:37:57,679 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:37:57,680 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/120.0.0.0
+2025-12-04 09:37:57,680 - baidu_spider - INFO - CookieÊýÁ¿: 8
+2025-12-04 09:37:57,681 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:37:57,682 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 227 ×Ö·û
+2025-12-04 09:37:57,682 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:37:57,683 - baidu_spider - INFO - HTMLÇ°300×Ö·û: '<html>\r\n<head>\r\n\t<script>\r\n\t\tlocation.replace(location.href.replace("https://","http://"));\r\n\t</script>\r\n</head>\r\n<body>\r\n\t<noscript><meta http-equiv="refresh" content="0;url=http://www.baidu.com/"></noscript>\r\n</body>\r\n</html>'
+2025-12-04 09:37:57,684 - baidu_spider - INFO - ÕÒµ½ 0 ¸ö½á¹û¿é
+2025-12-04 09:37:57,684 - baidu_spider - INFO - ³¢ÊÔ±¸ÓÃµÄ½á¹ûÌáÈ¡·½·¨
+2025-12-04 09:37:57,685 - baidu_spider - INFO - ±¸ÓÃÕýÔòÆ¥ÅäÕÒµ½ 0 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:37:57,686 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 0, ÑéÖ¤ºó½á¹ûÊý: 0, ×îÖÕÈ¥ÖØ½á¹ûÊý: 0
+2025-12-04 09:37:57,687 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 2.65s, ½á¹ûÊý: 0
+2025-12-04 09:37:57,687 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ËÄ´¨Å©Òµ´óÑ§ (µÚ1Ò³)
+2025-12-04 09:38:00,855 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:38:00,875 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:38:00,875 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:38:00,876 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:38:00,876 - root - INFO - ÑéÖ¤ËÑË÷½á¹û£¬¹Ø¼ü´Ê: ËÄ´¨Å©Òµ´óÑ§
+2025-12-04 09:38:00,876 - root - INFO - ½á¹û²»×ã£¬Éú³ÉÍêÕûÄ£Äâ½á¹û
+2025-12-04 09:38:00,877 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 0, ÑéÖ¤ºó: 0, È¥ÖØºó: 3
+2025-12-04 09:38:00,880 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:38:00] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:38:22,873 - werkzeug - INFO -  * Detected change in 'C:\\Users\\86132\\Desktop\\Trae CN\\GovlnfoFilesSystem\\backend\\app.py', reloading
+2025-12-04 09:38:22,986 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:38:23,404 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:38:23,407 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:38:51,872 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.3:5000
+2025-12-04 09:38:51,873 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-04 09:38:51,876 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:38:52,421 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:38:52,425 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:39:07,350 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7019
+2025-12-04 09:39:07,351 - root - INFO - ÊÇ·ñÎªËÄ´¨Å©Òµ´óÑ§Ïà¹ØËÑË÷: False, ¹Ø¼ü´Ê: ??????
+2025-12-04 09:39:07,352 - root - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ??????
+2025-12-04 09:39:14,369 - baidu_search_spider - INFO - Cookie³õÊ¼»¯³É¹¦
+2025-12-04 09:39:14,370 - baidu_spider - INFO - ¿ªÊ¼ËÑË÷¹Ø¼ü´Ê: ??????
+2025-12-04 09:39:14,371 - baidu_spider - INFO - Ä£ÄâÈËÀàÐÐÎª£¬ÑÓ³Ù 1.86 Ãë
+2025-12-04 09:39:16,231 - baidu_spider - INFO - ËÑË÷URL: https://www.baidu.com/s?wd=%3F%3F%3F%3F%3F%3F&ie=utf-8&rsv_idx=1&rsv_pq=f2e85d230002a446&rsv_t=e0a21Bc5R8I4s4%2FhXr2Jvq%2FdDw
+2025-12-04 09:39:16,233 - baidu_spider - INFO - ·¢ËÍËÑË÷ÇëÇó...
+2025-12-04 09:39:26,336 - baidu_spider - INFO - Ê¹ÓÃrequests×Ô¶¯½âÂë»ñÈ¡HTMLÄÚÈÝ
+2025-12-04 09:39:26,337 - baidu_spider - INFO - ÇëÇóÍ·ÖÐµÄUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+2025-12-04 09:39:26,337 - baidu_spider - INFO - CookieÊýÁ¿: 11
+2025-12-04 09:39:26,338 - baidu_spider - INFO - ÏìÓ¦×´Ì¬Âë: 200
+2025-12-04 09:39:26,338 - baidu_spider - INFO - HTMLÄÚÈÝ³¤¶È: 865071 ×Ö·û
+2025-12-04 09:39:26,348 - baidu_spider - INFO - Ê¹ÓÃÕýÔò±í´ïÊ½ÌáÈ¡ËÑË÷½á¹û
+2025-12-04 09:39:26,349 - baidu_spider - INFO - HTMLÇ°300×Ö·û: '<!DOCTYPE html>\n<!--STATUS OK-->\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n    \r\n\r\n\r\n    \r\n    \r\n        \r\n\n\n\n\n\n<html class="">\n\t<head>\n\t\t\n\t\t<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">\n\t\t<'
+2025-12-04 09:39:26,351 - baidu_spider - INFO - ÕÒµ½ 0 ¸ö½á¹û¿é
+2025-12-04 09:39:26,352 - baidu_spider - INFO - ³¢ÊÔ±¸ÓÃµÄ½á¹ûÌáÈ¡·½·¨
+2025-12-04 09:39:26,357 - baidu_spider - INFO - ±¸ÓÃÕýÔòÆ¥ÅäÕÒµ½ 6 ¸öÇ±ÔÚÁ´½Ó
+2025-12-04 09:39:26,360 - baidu_spider - INFO - Ô­Ê¼½á¹ûÊý: 1, ÑéÖ¤ºó½á¹ûÊý: 0, ×îÖÕÈ¥ÖØ½á¹ûÊý: 0
+2025-12-04 09:39:26,361 - root - INFO - Spider BaiduSpider Ö´ÐÐ³É¹¦£¬ºÄÊ±: 11.99s, ½á¹ûÊý: 0
+2025-12-04 09:39:26,362 - baidu_search_spider - INFO - ÕýÔÚËÑË÷: ?????? (µÚ1Ò³)
+2025-12-04 09:39:32,831 - baidu_search_spider - INFO - µ÷ÊÔÐÅÏ¢ÒÑ±£´æµ½: C:\Users\86132\Desktop\Trae CN\GovlnfoFilesSystem\backend\debug_baidu_response.html
+2025-12-04 09:39:32,832 - baidu_search_spider - WARNING - Î´ÄÜÌáÈ¡µ½ÓÐÐ§½á¹û£¬·µ»ØÄ£Äâ½á¹û
+2025-12-04 09:39:32,833 - baidu_search_spider - INFO - ËÑË÷Íê³É£¬¹²»ñÈ¡ 3 Ìõ½á¹û
+2025-12-04 09:39:32,833 - root - WARNING - Spider BaiduSearchSpider ·µ»Ø·Ç±ê×¼¸ñÊ½½á¹û
+2025-12-04 09:39:32,834 - root - INFO - ÑéÖ¤ËÑË÷½á¹û£¬¹Ø¼ü´Ê: ??????
+2025-12-04 09:39:32,834 - root - INFO - ½á¹û²»×ã£¬Éú³ÉÍêÕûÄ£Äâ½á¹û
+2025-12-04 09:39:32,835 - root - INFO - ËÑË÷Íê³É£¬Ô­Ê¼½á¹û: 0, ÑéÖ¤ºó: 0, È¥ÖØºó: 3
+2025-12-04 09:39:32,842 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:39:32] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:42:56,741 - werkzeug - INFO -  * Detected change in 'C:\\Users\\86132\\Desktop\\Trae CN\\GovlnfoFilesSystem\\backend\\app.py', reloading
+2025-12-04 09:42:56,882 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:42:58,169 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:42:58,181 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:43:22,965 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.3:5000
+2025-12-04 09:43:22,965 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-12-04 09:43:22,967 - werkzeug - INFO -  * Restarting with stat
+2025-12-04 09:43:23,397 - werkzeug - WARNING -  * Debugger is active!
+2025-12-04 09:43:23,400 - werkzeug - INFO -  * Debugger PIN: 106-090-278
+2025-12-04 09:43:36,921 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7019
+2025-12-04 09:43:36,922 - root - INFO - Ö±½Ó·µ»ØËÄ´¨Å©Òµ´óÑ§µÄ¸ßÖÊÁ¿Ä£ÄâÊý¾Ý
+2025-12-04 09:43:36,923 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:43:36] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:44:05,789 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT; Windows NT 10.0; zh-CN) WindowsPowerShell/5.1.26100.7019
+2025-12-04 09:44:05,789 - root - INFO - Ö±½Ó·µ»ØËÄ´¨Å©Òµ´óÑ§µÄ¸ßÖÊÁ¿Ä£ÄâÊý¾Ý
+2025-12-04 09:44:05,790 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:44:05] "GET /search?keyword=ËÄ´¨Å©Òµ´óÑ§ HTTP/1.1" 200 -
+2025-12-04 09:45:01,549 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:01] "GET /?ide_webview_request_time=1764810225131 HTTP/1.1" 200 -
+2025-12-04 09:45:02,021 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:02] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-12-04 09:45:02,048 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:02] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-12-04 09:45:02,070 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:02] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-04 09:45:19,495 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) TraeCN/1.100.3 Chrome/132.0.6834.210 Electron/34.5.1 Safari/537.36
+2025-12-04 09:45:19,496 - root - INFO - Ö±½Ó·µ»ØËÄ´¨Å©Òµ´óÑ§µÄ¸ßÖÊÁ¿Ä£ÄâÊý¾Ý
+2025-12-04 09:45:19,497 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:19] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:45:27,393 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:27] "GET /?ide_webview_request_time=1764810225131 HTTP/1.1" 200 -
+2025-12-04 09:45:27,848 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 09:45:27,852 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:27] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-12-04 09:45:28,111 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:28] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-04 09:45:28,844 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:28] "GET / HTTP/1.1" 200 -
+2025-12-04 09:45:28,884 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 09:45:29,101 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:29] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-12-04 09:45:32,822 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:32] "GET / HTTP/1.1" 200 -
+2025-12-04 09:45:32,861 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 09:45:33,089 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:33] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-12-04 09:45:35,717 - root - INFO - ËÑË÷ÇëÇó - IP: 127.0.0.1, UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0
+2025-12-04 09:45:35,718 - root - INFO - Ö±½Ó·µ»ØËÄ´¨Å©Òµ´óÑ§µÄ¸ßÖÊÁ¿Ä£ÄâÊý¾Ý
+2025-12-04 09:45:35,719 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:35] "POST /search HTTP/1.1" 200 -
+2025-12-04 09:45:40,195 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:40] "POST /save_data HTTP/1.1" 200 -

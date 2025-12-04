@@ -15,34 +15,45 @@ document.getElementById('searchForm').addEventListener('submit', function(e) {
     showStatus('', '');
     document.getElementById('searchResults').innerHTML = '';
     
-    // 发送搜索请求
-    fetch('/search', {
+    // 使用重试函数发送搜索请求
+    fetchWithRetry('/search', {
         method: 'POST',
         headers: {
-            'Content-Type': 'application/x-www-form-urlencoded'
+            'Content-Type': 'application/json'
         },
-        body: new URLSearchParams({
-            keyword: keyword
-        })
+        body: JSON.stringify({ keyword: keyword })
+    }, 3, 10000)
+    .then(response => {
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
     })
-    .then(response => response.json())
     .then(data => {
         showLoading(false);
         
         if (data.status === 'success') {
             displaySearchResults(data.data, keyword);
         } else {
-            showStatus(data.message || '搜索失败', 'error');
+            const errorMsg = data.message || '搜索失败，请稍后重试';
+            showStatus(errorMsg, 'error');
             document.getElementById('searchResults').innerHTML = `
                 <div class="empty-state">
-                    <p>搜索失败，请稍后重试</p>
+                    <p>${errorMsg}</p>
                 </div>
             `;
         }
     })
     .catch(error => {
         showLoading(false);
-        showStatus('网络错误，请检查您的连接', 'error');
+        console.error('搜索请求错误:', error);
+        
+        let errorMsg = '网络错误，请检查您的连接';
+        if (error.message && error.message.includes('timeout')) {
+            errorMsg = '请求超时，请稍后重试';
+        }
+        
+        showStatus(errorMsg, 'error');
         document.getElementById('searchResults').innerHTML = `
             <div class="empty-state">
                 <p>搜索失败，请稍后重试</p>
@@ -50,6 +61,31 @@ document.getElementById('searchForm').addEventListener('submit', function(e) {
         `;
     });
 });
+
+// 带重试和超时的fetch函数
+const fetchWithRetry = async (url, options, retries = 3) => {
+    try {
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 10000);
+        
+        const response = await fetch(url, {
+            ...options,
+            signal: controller.signal,
+            headers: {
+                'Content-Type': 'application/json',
+                'X-Requested-With': 'XMLHttpRequest',
+                ...options.headers
+            }
+        });
+        
+        clearTimeout(timeoutId);
+        return response;
+    } catch (error) {
+        if (retries <= 0) throw error;
+        await new Promise(res => setTimeout(res, 1000 * (4 - retries)));
+        return fetchWithRetry(url, options, retries - 1);
+    }
+};
 
 // 显示加载状态
 function showLoading(show) {
@@ -77,7 +113,10 @@ function showStatus(message, type) {
 function displaySearchResults(results, keyword) {
     const resultsContainer = document.getElementById('searchResults');
     
-    if (!results || results.length === 0) {
+    // 确保results是数组
+    const resultsArray = Array.isArray(results) ? results : [];
+    
+    if (!resultsArray || resultsArray.length === 0) {
         resultsContainer.innerHTML = `
             <div class="empty-state">
                 <p>没有找到相关结果</p>
@@ -90,7 +129,7 @@ function displaySearchResults(results, keyword) {
     window.currentKeyword = keyword;
     
     let html = '';
-    results.forEach((item, index) => {
+    resultsArray.forEach((item, index) => {
         html += `
             <div class="result-item" data-index="${index}">
                 <div class="result-header">
@@ -112,7 +151,7 @@ function displaySearchResults(results, keyword) {
     resultsContainer.innerHTML = html;
     
     // 保存结果到全局变量
-    window.searchResults = results;
+    window.searchResults = resultsArray;
     
     // 绑定复选框事件
     bindCheckboxEvents();
