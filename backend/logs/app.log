@@ -555,3 +555,7 @@
 2025-12-04 09:45:35,718 - root - INFO - Ö±½Ó·µ»ØËÄ´¨Å©Òµ´óÑ§µÄ¸ßÖÊÁ¿Ä£ÄâÊý¾Ý
 2025-12-04 09:45:35,719 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:35] "POST /search HTTP/1.1" 200 -
 2025-12-04 09:45:40,195 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 09:45:40] "POST /save_data HTTP/1.1" 200 -
+2025-12-04 11:30:56,245 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:30:56] "GET /?ide_webview_request_time=1764810225131 HTTP/1.1" 200 -
+2025-12-04 11:30:56,270 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:30:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 11:30:56,579 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:30:56] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-12-04 11:30:56,922 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:30:56] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
