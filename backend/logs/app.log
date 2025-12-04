@@ -559,3 +559,11 @@
 2025-12-04 11:30:56,270 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:30:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
 2025-12-04 11:30:56,579 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:30:56] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
 2025-12-04 11:30:56,922 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:30:56] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-04 11:32:49,138 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:32:49] "GET /?ide_webview_request_time=1764810225131 HTTP/1.1" 200 -
+2025-12-04 11:32:49,405 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:32:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-12-04 11:32:49,467 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:32:49] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-12-04 11:32:49,697 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:32:49] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-12-04 11:33:56,384 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:33:56] "GET /?ide_webview_request_time=1764810225131 HTTP/1.1" 200 -
+2025-12-04 11:33:56,652 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:33:56] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-12-04 11:33:56,716 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:33:56] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-12-04 11:33:56,742 - werkzeug - INFO - 127.0.0.1 - - [04/Dec/2025 11:33:56] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
